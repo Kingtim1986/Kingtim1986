@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kingtim1986
-- 👀 I’m interested in app software developmment and blockchain technology
+- 👀 I’m interested in app developmment and blockchain technology
 - 🌱 I’m currently learning html on freecodecamp
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... distinctionsme@gmail.com
